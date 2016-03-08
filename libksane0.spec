@@ -5,7 +5,7 @@ Summary:	A library for dealing with scanners
 Name:		libksane0
 Version:	15.08.3
 Release:	3
-Epoch:		2
+Epoch:		3
 Group:		System/Libraries
 License:	GPLv2
 Url:		http://www.kde.org
